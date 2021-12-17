@@ -1,6 +1,206 @@
+<details>
+    <summary>new</summary>
+    <details>
+        <summary>1 вариант</summary>
+        <details>
+            <summary>1. 3 любых практические реализации VLAN</summary>
+        </details>
+        <details>
+            <summary>2. Даны VLAN, надо настроить порт на пропуск через него виланы (там транк)</summary>
+        </details>
+        <details>
+            <summary>3. Сколько из представленных портов - порты доступа</summary>
+        </details>
+        <details>
+            <summary>4. На схеме обозначен root. Обозначить все порты, которые будут designated (если комбинаций несколько, подходит любая правильная)</summary>
+        </details>
+        <details>
+            <summary>5. NBMA топологии</summary>
+        </details>
+        <details>
+            <summary>6. Нарисовать домен ATM</summary>
+        </details>
+        <details>
+            <summary>7. Частота голосового канала</summary>
+        </details>
+        <details>
+            <summary>8. Характиристика Dial-up</summary>
+        </details>
+        <details>
+            <summary>9. 3 любых блока сетевого адаптера</summary>
+        </details>
+        <details>
+            <summary>10. Назвать пример медиаконвертера</summary>
+        </details>
+        <details>
+            <summary>11. Частоты вайфая (тут нужен был точный ответ)</summary>
+        </details>
+        <details>
+            <summary>12. Что такое телекоммуникационное оборудование</summary>
+        </details>
+    </details>
+    <details>
+        <summary>2 вариант</summary>
+        <details>
+            <summary>1. Назовите три любые технологии агрегирования каналов</summary>
+        </details>
+        <details>
+            <summary>2. </summary>
+        </details>
+        <details>
+            <summary>3. Сколько всего в данной спд транков в нотации циско при норм администрировании</summary>
+        </details>
+        <details>
+            <summary>4. изобразите любую валидную комбинацию альтернативных либо по другому блокер портов</summary>
+        </details>
+        <details>
+            <summary>5. два вида сетевых интерфейсов два любых isdn</summary>
+        </details>
+        <details>
+            <summary>6. Дайте определение что такое локал луп</summary>
+        </details>
+        <details>
+            <summary>7. назовите 3 любых разъема которые широко используются в WAN</summary>
+        </details>
+        <details>
+            <summary>8. Какая огранзиция занимется стандартазицией frame realy</summary>
+        </details>
+        <details>
+            <summary>9. каким каналом не перекрывается канал номер 6 в области 2.4</summary>
+        </details>
+        <details>
+            <summary>10. Приведите 2 любых примера гибридных технологий l2 и L3</summary>
+        </details>
+        <details>
+            <summary>11. Что такое Auto MDI/ MDIX</summary>
+        </details>
+        <details>
+            <summary>12. Что такое маршрутизатор</summary>
+        </details>
+    </details>
+    <details>
+        <summary>3 вариант</summary>
+        <details>
+            <summary>1. изобразить структуру тега 802.1q</summary>
+        </details>
+        <details>
+            <summary>2. настроить статическую агрегацию (вроде агрегацию, но мб маршрутизацию) каналов между S2 и S3 со стороны S2 с учетам всех изображенных виланов (там есть vlan 10, 20, 30)</summary>
+        </details>
+        <details>
+            <summary>3. привести пример поддержки виланов в Windows</summary>
+        </details>
+        <details>
+            <summary>4. Исходя из каких параметров выбирается корневой мост по протоколу STP</summary>
+        </details>
+        <details>
+            <summary>5. Раскрыть аббревиатуру STM54</summary>
+        </details>
+        <details>
+            <summary>6. 3 любых устройства, входящих в структуру ATM систем</summary>
+        </details>
+        <details>
+            <summary>7. привести пример инкапсуляйции С ИСПОЛЬЗОВАНИЕМ для протокола PPP</summary>
+        </details>
+        <details>
+            <summary>8. привести 3 критерия классификации модема</summary>
+        </details>
+        <details>
+            <summary>9. привести 3 любых совместимых стандарта Wi-Fi</summary>
+        </details>
+        <details>
+            <summary>10. в чем заключается коммутация CAPSUM</summary>
+        </details>
+        <details>
+            <summary>11. примести практический пример повторителя</summary>
+        </details>
+        <details>
+            <summary>12. чем отличается американский регион wi-fi от европейского</summary>
+        </details>
+    </details>
+    <details>
+        <summary>4 вариант</summary>
+        <details>
+            <summary>1. Что такое isl</summary>
+        </details>
+        <details>
+            <summary>2. компьютеры соотнесены с виланами, настройте динамическую агрегацию каналов между с2 и с3 со стороны н3 с учетом всех виланов</summary>
+        </details>
+        <details>
+            <summary>3. Сколько устройств изображ на доске являются Л2 устроцствами</summary>
+        </details>
+        <details>
+            <summary>4. Приведите практ пример поддержки(возможно без поддержки) виланов ОС Windows</summary>
+        </details>
+        <details>
+            <summary>5. </summary>
+        </details>
+        <details>
+            <summary>6. Приведите 3 примера устройств входящих в isdn систему</summary>
+        </details>
+        <details>
+            <summary>7. в чём заключается метод коммутации SNF</summary>
+        </details>
+        <details>
+            <summary>8. приведите пример декапсуляции с использ протоколов ppp l1-l7</summary>
+        </details>
+        <details>
+            <summary>9. какими стандартами соввсестим стандарт 802.11 (b)?</summary>
+        </details>
+        <details>
+            <summary>10. 3 примера оbорудования CPE</summary>
+        </details>
+        <details>
+            <summary>11. для чего нужен ?сплиттер? представитель пассивн сетевого оьорудования</summary>
+        </details>
+        <details>
+            <summary>12. назовите традиционные регионы wifi</summary>
+        </details>
+    </details>
+    <details>
+        <summary>5 вариант</summary>
+        <details>
+            <summary>1. перечислите какие ус-ва способны выполнять IVR</summary>
+        </details>
+        <details>
+            <summary>2. На S1 сконфигурировать classic IVR</summary>
+        </details>
+        <details>
+            <summary>3. Три любые разновидности протокола STP</summary>
+        </details>
+        <details>
+            <summary>4. Что такое port mirroring</summary>
+        </details>
+        <details>
+            <summary>5. 3 стандатра dial up</summary>
+        </details>
+        <details>
+            <summary>6. изобразить виртуальную цепь point to point</summary>
+        </details>
+        <details>
+            <summary>7. Виды TDM</summary>
+        </details>
+        <details>
+            <summary>8. Пример демаркационной линии</summary>
+        </details>
+        <details>
+            <summary>9. изобразить ibss</summary>
+        </details>
+        <details>
+            <summary>10. что такое комутатор</summary>
+        </details>
+        <details>
+            <summary>11. что такое EoL [характеристика</summary>
+        </details>
+        <details>
+            <summary>12. 3 любые особенности голосового трафика с точки зрения QoS </summary>
+        </details>
+    </details>
+</details>
 
+
+<details>
+<summary>old</summary>
 ![network topology](1.4.png)
-
 <details>
     <summary>1 вариант</summary>
     <details>
@@ -486,4 +686,5 @@
     <details>
         <summary>12. что такое децибел(dB)</summary>
     </details>
+</details>
 </details>
